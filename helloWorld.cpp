@@ -2,5 +2,8 @@
 
 int main()
 {
-  std::cout << "Hello World!";
+	int i;
+	for (i=0;i<10;i++){
+		std::cout << "Hello World!";
+	}
 }
